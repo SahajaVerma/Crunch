@@ -20,8 +20,8 @@ def banner():
     os.system('''
 	toilet --gay Crunch
 	print()
-printf "------------------------------------------------------------------\n\n"
-	printf "\e[1;101m\tCrunch is Developed to Tackle\n\tOnline Bullying & Harrasment \e[0m\e[1;101m\e[0m\n"
+print("------------------------------------------------------------------\n\n")
+	print("\e[1;101m\tCrunch is Developed to Tackle\n\tOnline Bullying & Harrasment \e[0m\e[1;101m\e[0m\n")
 	printf "\n\e[1;32m\tThis Tool is Developed to Slow Down the Phone\n\tBy Bombing Thousands of CALLS & SMSs \e[0m \e[0m\e[1;32m\e[0m\n\n"
 	printf "\tCrunch is Developed By Sahaja Verma\n\tEspecially to Fight Cyber-Bullying & Harrasment\n\n"
 	printf "\n"
