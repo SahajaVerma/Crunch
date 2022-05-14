@@ -1,5 +1,17 @@
 # Crunch
 
+<b>  What is "Crunch"? </b>
+
+Crunch is SMS (OTP) Bombing Tool. What It Does You'll See By Experimenting :)
+
+<hr><br>
+
+<b> Use at Google Cloud Console </b>
+
+https://console.cloud.google.com/
+
+<b><span> Points to Remember </span></b>
+
 <b>Steps:</b><br>
 ```
 apt install python3 curl git -y
